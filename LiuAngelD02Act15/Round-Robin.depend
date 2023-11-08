@@ -1,0 +1,272 @@
+# depslib dependency file v1.0
+1692908862 source:d:\universidad\6to semestre\seminario  sistemas operativos\programas\2\simular el procesamiento por lotes\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+	"Lotes.h"
+
+1692906378 d:\universidad\6to semestre\seminario  sistemas operativos\programas\2\simular el procesamiento por lotes\procesos.h
+	<math.h>
+	"Lotes.h"
+
+1692905189 d:\universidad\6to semestre\seminario  sistemas operativos\programas\2\simular el procesamiento por lotes\lotes.h
+	"Procesos.h"
+	<vector>
+	<iostream>
+
+1692908864 source:c:\users\usuario\desktop\2\simular el procesamiento por lotes\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+	"Lotes.h"
+
+1693426164 c:\users\usuario\desktop\2\simular el procesamiento por lotes\procesos.h
+	<math.h>
+	"Lotes.h"
+
+1692905190 c:\users\usuario\desktop\2\simular el procesamiento por lotes\lotes.h
+	"Procesos.h"
+	<vector>
+	<iostream>
+
+1693977097 source:d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act4\programa\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+	"Lotes.h"
+
+1693976815 d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act4\programa\procesos.h
+	<math.h>
+	"Lotes.h"
+
+1692905190 d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act4\programa\lotes.h
+	"Procesos.h"
+	<vector>
+	<iostream>
+
+1694847175 source:d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act6\liuangeld02act6\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+
+1694846952 d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act6\liuangeld02act6\procesos.h
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<limits>
+	<bits/stdc++.h>
+
+1695930709 source:d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act8\liuangeld02act8\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+
+1696358828 d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act8\liuangeld02act8\procesos.h
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<limits>
+	<bits/stdc++.h>
+
+1695930710 source:c:\users\usuario\desktop\liuangeld02act8\liuangeld02act8\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+
+1696449693 c:\users\usuario\desktop\liuangeld02act8\liuangeld02act8\procesos.h
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<limits>
+	<bits/stdc++.h>
+
+1697228796 source:d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act10\liuangeld02act10\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+
+1697229095 d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act10\liuangeld02act10\procesos.h
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<limits>
+	<bits/stdc++.h>
+
+1698791315 source:d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act14\liuangeld02act14\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+
+1698798045 d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act14\liuangeld02act14\procesos.h
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<limits>
+	<bits/stdc++.h>
+	"Memory.h"
+
+1698796892 d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act14\liuangeld02act14\memory.h
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<limits>
+	<conio.h>
+	<bits/stdc++.h>
+	<windows.h>
+
+1698869801 source:c:\users\usuario\desktop\liuangeld02act14\liuangeld02act14\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+
+1698870986 c:\users\usuario\desktop\liuangeld02act14\liuangeld02act14\procesos.h
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<limits>
+	<bits/stdc++.h>
+	"Memory.h"
+
+1698866636 c:\users\usuario\desktop\liuangeld02act14\liuangeld02act14\memory.h
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<limits>
+	<conio.h>
+	<bits/stdc++.h>
+	<windows.h>
+
+1699409713 source:d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act15\liuangeld02act15\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+
+1699409641 d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act15\liuangeld02act15\procesos.h
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<limits>
+	<bits/stdc++.h>
+	"Memory.h"
+
+1698866638 d:\universidad\6to semestre\seminario  sistemas operativos\programas\liuangeld02act15\liuangeld02act15\memory.h
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<limits>
+	<conio.h>
+	<bits/stdc++.h>
+	<windows.h>
+
+1699462978 source:c:\users\liu\onedrive\escritorio\liuangeld02act15\liuangeld02act15\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<sstream>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	"Procesos.h"
+
+1699461293 c:\users\liu\onedrive\escritorio\liuangeld02act15\liuangeld02act15\procesos.h
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<limits>
+	<bits/stdc++.h>
+	"Memory.h"
+
+1699461293 c:\users\liu\onedrive\escritorio\liuangeld02act15\liuangeld02act15\memory.h
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<limits>
+	<conio.h>
+	<bits/stdc++.h>
+	<windows.h>
+
